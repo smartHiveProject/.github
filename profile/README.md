@@ -4,8 +4,7 @@
 > The smartHive project is still a Work In Progress, so make sure to come check once in a while for updates!
 
 ## About SmartHive 
-The smartHive project aims to provide beekeepers with crucial, real-time data and early warning signs for potential problems in their hives. SmartHive is a comprehensive, non-invasive monitoring system utilizing Al-powered
-cameras and sensors to track bee traffic, hive temperature, and humidity in real-time.
+The smartHive project aims to provide beekeepers with an effective and automated method for detecting Varroa mites in beehives and to give beekeepers crucial, real-time data and early warning signs for potential problems in their hives.
 
 ## Contributing
 Due to the nature of the project at the moment, we're not accepting any contributions at this time. We hope to able to in the future. Feel free to contact us though!
